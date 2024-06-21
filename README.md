@@ -8,7 +8,7 @@ This repository is a comprehensive display of my academic journey through the re
 
 Each folder below represents a different course or project area, encompassing a wide range of topics and applications:
 
-- **[Game Theory]([https://github.com/yourusername/university-projects/tree/master/MATIER1](https://github.com/Raphaeldavid203/University-Projects/tree/main/Game%20Theory%20Research%202))** - Overview of projects focused on advanced mathematics.
+- **[Game Theory](https://github.com/Raphaeldavid203/University-Projects/tree/main/Game%20Theory%20Research%202)** - Overview of projects focused on advanced mathematics.
 - **[MATIER 2](https://github.com/yourusername/university-projects/tree/master/MATIER2)** - Projects that delve into the complexities of statistical analysis.
 - **[MATIER 3](https://github.com/yourusername/university-projects/tree/master/MATIER3)** - Applied projects in quantitative finance and analysis.
 - **[MATIER 4](https://github.com/yourusername/university-projects/tree/master/MATIER4)** - Computer science projects that highlight programming and system analysis.
