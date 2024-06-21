@@ -56,10 +56,7 @@ Throughout these projects, I've developed a robust set of skills, including but 
 
 Feel free to explore each folder to see detailed projects and their respective documentation. If you're interested in collaborating or have any questions, please don't hesitate to reach out.
 
-## Contact Information
 
-- **Email**: [your.email@university.com](mailto:your.email@university.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
 
 Thank you for visiting my university project portfolio. I hope you find the projects informative and inspiring!
 
