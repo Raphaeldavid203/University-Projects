@@ -14,7 +14,7 @@ Each folder below represents a distinct area of study, showcasing a wide range o
 - **[View Code](https://github.com/Raphaeldavid203/University-Projects/blob/main/Game%20Theory%20Research%202/quantitative_solutions.ipynb)**
 - **[View the PDF Report](https://drive.google.com/file/d/1m3mumh0lodxSIoe8QLEsLYkxbPOkbOHF/view?usp=share_link)**
 
-### 💻 **Quantitative Methods **
+### 💻 **Quantitative Methods**
 - **Coursework and Group project**: Data Science and Visualisation.
 - **Description**: In this module, I conducted various analyses using Python, covering topics such as hypothesis testing, linear regression, and natural language processing. Additionally, I participated in a group project titled *"Understanding the Socio-Economic Impacts of Oil Export Dependency in Six Major Nations,"* where we performed detailed data analysis and published our findings on a website. Final module grade 71%
 - **[View code](https://github.com/Raphaeldavid203/QM2/tree/main/notebooks)** *(Personal project)* 
