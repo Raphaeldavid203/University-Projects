@@ -12,7 +12,7 @@ Each folder below represents a distinct area of study, showcasing a wide range o
 - **Coursework**: Advanced mathematics applications in game theory.
 - **Description**: Exploring strategic decision-making models.
 - **[View Code](https://github.com/Raphaeldavid203/University-Projects/tree/main/Game%20Theory%20Research%202)**
-- **[View PDF](#)**  *(Add link to PDF if available)*
+- **[View PDF]([#](https://drive.google.com/file/d/1m3mumh0lodxSIoe8QLEsLYkxbPOkbOHF/view?usp=share_link))**  *(Add link to PDF if available)*
 
 ### 🔍 **Quantitative Methods**
 - **Coursework**: In-depth statistical analysis techniques.
