@@ -10,7 +10,7 @@ Each folder below represents a distinct area of study, showcasing a wide range o
 
 ### 🧮 **Game Theory**
 - **Coursework 2**: How to outperform the market ? - An introduction to risk management and quantitative finance.
-- **Description**: In this project, I investigated whether an ETF or a personally selected portfolio can outperform the market. Using a Bayesian game modeled with Monte Carlo simulations, I compared a custom portfolio against the $ACWI. The analysis highlighted the potential for higher returns with a personalized strategy, albeit with greater risk. Final grade: 82
+- **Description**: In this project, I investigated whether an ETF or a personally selected portfolio can outperform the market. Using a Bayesian game modeled with Monte Carlo simulations, I compared a custom portfolio against the $ACWI. The analysis highlighted the potential for higher returns with a personalized strategy, albeit with greater risk. Final grade: 82%
 - **[View Code](https://github.com/Raphaeldavid203/University-Projects/tree/main/Game%20Theory%20Research%202)**
 - **[View PDF](https://drive.google.com/file/d/1m3mumh0lodxSIoe8QLEsLYkxbPOkbOHF/view?usp=share_link)**  *(Add link to PDF if available)*
 
