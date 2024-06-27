@@ -2,11 +2,11 @@
 
 ## Welcome to My Academic Showcase
 
-This repository is a comprehensive display of my academic journey through the realms of mathematics, statistics, quantitative analysis, and computer science. Here, you'll find a curated collection of projects that span across various subjects, demonstrating the skills and knowledge I've acquired throughout my university studies.
+I am currently pursuing a Bachelor of Arts and Sciences at UCL, specializing in Statistics, Mathematics, and Computer Science. This repository contains my programming projects completed this year, showcasing my work in Python, Stata, and SQL. Additionally, you will find various projects from other courses I have undertaken. Feel free to explore and see the range of my academic and programming skills.
 
 ## 📂 Projects Overview
 
-Each folder below represents a distinct area of study, showcasing a wide range of topics and applications:
+Each folder below represents a distinct coursework, showcasing a wide range of topics and applications from my studies. 
 
 ### 🧮 **Game Theory**
 - **Coursework 2**: How to outperform the market ? - An introduction to risk management and quantitative finance.
