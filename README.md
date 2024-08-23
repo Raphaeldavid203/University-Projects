@@ -32,7 +32,7 @@ Each folder below represents a distinct coursework, showcasing a wide range of t
 - **[View PDF](https://drive.google.com/file/d/1OEYBQKVmvvtCGFWSfacP5z9-_RHLIVEL/view?usp=share_link)**  *(Add link to PDF if available)*
 
 
-### 🧬 **MATIER 5**
+### 💻 **Database Systems**
 - **Coursework**: Interdisciplinary studies in math, stats, and computing.
 - **Description**: Combining elements from multiple disciplines to solve complex problems.
 - **[View Code](https://github.com/yourusername/university-projects/tree/master/MATIER5)**
